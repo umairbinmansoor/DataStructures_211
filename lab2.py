@@ -8,7 +8,7 @@ Original file is located at
 """
 
 class Stack:
-  def__init__(self):
+  def __init__(self):
     self.items= []
 
   def pop(self):
